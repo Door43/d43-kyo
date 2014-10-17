@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kyo:home|Door43 (kyo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kyo|d43-kyo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kyo/archive/master.zip|d43-kyo.zip]]
+
+**Recent Changes**
+{{changes>ns = kyo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kyo|Ethnologue data]]
+
